@@ -1,0 +1,59 @@
+.container {
+   max-width: 500px;
+   margin: 0 auto;
+}
+
+.title {
+   text-align: center;
+   margin: 50px 0 50px;
+   color: rgba(147, 131, 238, 0.724);
+
+}
+
+.input {
+   margin-right: 10px;
+   font-size: 25px;
+   padding: 5px 15px;
+   color: rgb(77, 234, 98);
+}
+
+.wrapper {
+   display: flex;
+   justify-content: center;
+}
+
+.btn {
+   color: #fff;
+   font-size: 25px;
+   padding: 5px;
+   width: 150px;
+   background-color: rgb(33, 218, 24);
+   border: none;
+   cursor: pointer;
+}
+
+.btn:hover {
+   background-color: rgba(222, 118, 209, 0.803);
+}
+
+#item {
+   list-style: none;
+   padding: 20px 0 0;
+   text-align: center;
+   margin: 0;
+
+}
+
+.li {
+   font-size: 25px;
+   font-weight: 700;
+   letter-spacing: 1px;
+   color: rgba(147, 131, 238, 0.724);
+   margin-bottom: 10px;
+   cursor: pointer;
+}
+
+.textDecor {
+   text-decoration: line-through;
+   color: rgba(222, 118, 209, 0.803);
+}
